@@ -1,0 +1,7 @@
+{"level":"info","ts":1704453114.280076,"caller":"log/logger.go:47","msg":"| 404 |         260ns |             ::1 | GET     /favicon.ico%!(EXTRA string=, string=)"}
+{"level":"info","ts":1704455163.1334715,"caller":"middleware/logger.go:29","msg":" 200 |    2.522257ms |             ::1 | GET     |/ | "}
+{"level":"info","ts":1704459160.7527518,"caller":"log/logger.go:29","msg":"abc"}
+{"level":"error","ts":1704459166.9688067,"caller":"log/logger.go:33","msg":"lkd","user":null,"stacktrace":"myBlog/log.Error\n\t/usr/local/myBlog/log/logger.go:33\nmyBlog/log.TestError\n\t/usr/local/myBlog/log/logger_test.go:33\ntesting.tRunner\n\t/usr/local/go/go1.19.1/go/src/testing/testing.go:1446"}
+{"level":"error","ts":1704459481.8184457,"caller":"log/logger.go:33","msg":"lkd","user":null,"stacktrace":"myBlog/log.Error\n\t/usr/local/myBlog/log/logger.go:33\nmyBlog/log.TestError\n\t/usr/local/myBlog/log/logger_test.go:33\ntesting.tRunner\n\t/usr/local/go/go1.19.1/go/src/testing/testing.go:1446"}
+{"level":"error","ts":1704459731.7882962,"caller":"log/logger.go:33","msg":"lkd","user":null,"stacktrace":"myBlog/log.Error\n\t/usr/local/myBlog/log/logger.go:33\nmyBlog/log.TestError\n\t/usr/local/myBlog/log/logger_test.go:33\ntesting.tRunner\n\t/usr/local/go/go1.19.1/go/src/testing/testing.go:1446"}
+{"level":"info","ts":1704460064.7302637,"caller":"log/logger.go:29","msg":"abc"}
